@@ -1,0 +1,4 @@
+!com.beecloud.entity.DbConfig
+url: jdbc:mysql://127.0.0.1:3306/unified_users?useUnicode=true&characterEncoding=utf8
+userName: root
+passWord: root
